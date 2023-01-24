@@ -1,0 +1,1 @@
+# Some python code for reading from binary file dumps from WOMBAT MHD
